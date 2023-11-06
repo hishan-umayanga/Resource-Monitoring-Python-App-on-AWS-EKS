@@ -7,7 +7,7 @@
 
 1. create Monitoring Application in Python using Flask and psutil
 2. How to run a Python App locally.
-3. Learn Docker and How to containerize a Python application
+3. Docker andHow to containerize a Python application
     1. Creating Dockerfile
     2. Building DockerImage
     3. Running Docker Container
@@ -238,6 +238,6 @@ kubectl port-forward service/<service_name> 5000:5000
 
 I would like to extend my sincere gratitude to @Cloud Champ for their excellent YouTube content about DevOps.His work has been a significant source of inspiration and knowledge for this project. Thank you, Cloud Champ!
 
-# **Youtube Video for step by step Demonstration!**
+# **Checkout more devops content on cloud champ**
 
-[![Cloud champ!](https://www.youtube.com/@cloudchamp/featured)
+[Cloud champ youtube ↗️](https://www.youtube.com/@cloudchamp/featured)
